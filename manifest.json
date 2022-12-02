@@ -6,7 +6,11 @@
    "version": "1.0.0",
    "action": {
       "default_popup": "index.html",
-      "default_title": "Whatsapp search input focus"
+      "default_title": "Whatsapp search input focus",
+      "default_icon": {
+         "16": "icons/icon16.png",
+         "32": "icons/icon32.png"
+      }
    },
    "host_permissions": [
       "*://web.whatsapp.com/*"

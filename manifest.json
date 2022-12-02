@@ -1,7 +1,7 @@
 {
    "manifest_version": 3,
    "name": "Whatsapp search input focus",
-   "description": "focus search input when deleting all content from search line",
+   "description": "Focus search input when deleting all content from search line",
    "author": "Shahaf Levi",
    "version": "1.0.0",
    "action": {
@@ -12,17 +12,15 @@
          "32": "icons/icon32.png"
       }
    },
-   "host_permissions": [
-      "*://web.whatsapp.com/*"
-   ],
    "content_scripts": [
       {
          "matches": [
             "*://web.whatsapp.com/*"
          ],
          "js": [
-            "index.js"
-         ]
+            "content-script.js"
+         ],
+         "run_at": "document_idle"
       }
    ]
 }

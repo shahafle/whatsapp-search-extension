@@ -8,7 +8,7 @@ function addFocusListener() {
    clearInterval(intervalId)
    intervalId = null
    elSearchBar.addEventListener("input", focus)
-   window.onunload(() => { elSearchBar.removeEventListener('input', focus) })
+   window.onunload = () => { elSearchBar.removeEventListener('input', focus) }
 
    function focus(ev) {
       const text = ev.target.innerHTML

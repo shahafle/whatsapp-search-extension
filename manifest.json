@@ -1,15 +1,15 @@
 {
    "manifest_version": 3,
-   "name": "Whatsapp search input focus",
+   "name": "Whatsapp search input auto focus",
    "description": "Focus search input when deleting all content from search line",
    "author": "Shahaf Levi",
    "version": "1.0.0",
    "action": {
       "default_popup": "index.html",
-      "default_title": "Whatsapp search input focus",
+      "default_title": "Whatsapp search input auto focus",
       "default_icon": {
-         "16": "icons/icon16.png",
-         "32": "icons/icon32.png"
+         "16": "imgs/icons/icon16.png",
+         "32": "imgs/icons/icon32.png"
       }
    },
    "content_scripts": [

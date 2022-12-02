@@ -17,3 +17,13 @@ This:
 
 Becoming this after deleting: (without the ability to keep typing)  
 ![image](https://user-images.githubusercontent.com/88834944/205339735-cadad410-3789-42bd-8b56-c0cfaae1194b.png)
+
+## Local installation
+1. Save the repository locally- Head to the repository on top and clone the project or download the files. 
+2. Go to chrome://extensions/.
+3. At the top right, turn on Developer mode.
+4. Click Load unpacked.
+5. Find and select the extension's saved folder.
+6. Go to [Whatsapp web](https://web.whatsapp.com/) and try it
+
+Your'e ready to use the extension. From now on, enjoy better experience of Whatsapp web!

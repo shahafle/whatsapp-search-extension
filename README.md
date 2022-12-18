@@ -1,5 +1,7 @@
 # 💬 whatsapp search autofocus extension
 
+🔹 You can find it [here in Google Web Store](https://chrome.google.com/webstore/detail/whatsapp-search-bar-auto/egfphlagbhpjgbbapbifdehemgmbpdnc?hl=iw&authuser=0) to install
+
 **This extension improves Whatsapp web experience** and fixes the following problem:
 When searching a contact in search bar and then deleting the text till search bar is empty it is lossing it's focus. One must click the search bar again to keep writing arter it's empty  ([example](#bug-example)).  
 Thats a bad UX bug that making the use of it complicated and uncomfortable.
@@ -9,7 +11,6 @@ Then, I'm here to solve the problem 😎.
 
 Whatsapp team may solve that bug themselves (one day or another), still this is a nice experience developing a **browser extension** myself.
 
-🔹 Currently the extension is waiting for Google's confirmation to get into chrome's web store.
 
 ## Bug example
 This:  

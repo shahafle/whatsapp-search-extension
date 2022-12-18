@@ -15,7 +15,7 @@ Whatsapp team may solve that bug themselves (one day or another), still this is 
 This:  
 ![image](https://user-images.githubusercontent.com/88834944/205339467-12bf3e4a-342a-4cdf-b139-b03a3ec95264.png)
 
-Becoming this after deleting: (without the ability to keep typing)  
+Becomes this after deleting: (without the ability to keep typing)  
 ![image](https://user-images.githubusercontent.com/88834944/205339735-cadad410-3789-42bd-8b56-c0cfaae1194b.png)
 
 ## Local installation
